@@ -1,5 +1,3 @@
-## \example pmi/integrin/integrin.modeling.py
-
 import IMP
 import IMP.core
 import IMP.base
@@ -18,9 +16,6 @@ import IMP.pmi.output
 import IMP.pmi.macros
 
 import os
-
-def get_data(fname):
-    return IMP.pmi.get_example_path("integrin/data/" + fname)
 
 log_objects = []
 sample_objects = []
