@@ -12,7 +12,7 @@ class Tests(unittest.TestCase):
     def test_modeling(self):
         """Test modeling script"""
         os.chdir(TOPDIR)
-        p = subprocess.check_call(["python", "glycophorin_modeling.py"])
+        p = subprocess.check_call(["python", "integrin_modeling.py"])
         # Require that output files were produced (todo: test them for accuracy)
         os.unlink("best.scores.rex.py")
         os.unlink("initial.0.rmf3")
