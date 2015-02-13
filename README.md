@@ -25,3 +25,5 @@ This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
 License as published by the Free Software Foundation; either
 version 2 of the License, or (at your option) any later version.
+
+_Last known good IMP version_: [![build info](https://integrativemodeling.org/systems/?sysstat=8)](http://integrativemodeling.org/systems/)
