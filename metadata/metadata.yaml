@@ -1,2 +1,5 @@
 title: Integrin
 tags: [cysteine crosslinks, PMI]
+test:
+    runtime: 10h
+    build: release
