@@ -1,6 +1,6 @@
 title: Integrin
 tags: [cysteine crosslinks, PMI]
-prereqs: [python/numpy]
+prereqs: [python/numpy, python/biopython]
 test:
     runtime: 10h
     build: release
